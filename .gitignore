@@ -6,4 +6,5 @@ SKIP
 SKIP_IMAGES
 .pc
 *-pc
+*.img
 apt-cacher-ng/
